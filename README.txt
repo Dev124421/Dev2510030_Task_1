@@ -1,22 +1,23 @@
-SEKIRO GAME ARENA
-==================
+CYBERPUNK 2077 NIGHT CITY WIRE
+==============================
 
 Files:
-- index.html       Home page
-- category.html    Detailed Combat & Skills category page
-- game.html        Detailed Sekiro game page
-- style.css        All styling
+- home.html                 Home page with Night City districts and character profiles
+- news.html                 Night City Wire & Dispatch news board (dual-toned visual layout)
+- buy-ultimate.html         Interactive game & platform selector (Ultimate Edition focus)
+- buy-phantom-liberty.html  DLC expansion checkout view (Phantom Liberty focus)
+- style.css                 Universal Cyberpunk neon and HUD styling rules
 
 Rules followed:
 - HTML + CSS only
 - No JavaScript
 - No Bootstrap
 - No 3D libraries
-- Responsive layout
-- Navbar, header/hero, cards, lists, footer
-- 3 pages, including 2 detailed pages
-- 3 categories and multiple featured games
-- External game artwork is loaded from Steam's public CDN
-- External official-site link is included for reference
+- Responsive layout across mobile, tablet, and desktop viewports
+- Sticky tech-styled navbar with CSS-only interactive dropdown menus
+- Multi-tier layouts: hero banners, angled cyberpunk clip-paths, and content cards
+- Dual-toned media grid reproducing the official CD Projekt Red dispatch layout
+- Dedicated bright store views with game crosshairs and discount platform tags
+- External assets and official links included for teasers, patch updates, and Steam store redirects
 
-Open index.html in a browser to start.
+Open home.html in a browser to start.
